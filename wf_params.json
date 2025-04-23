@@ -1,0 +1,6 @@
+{
+    "VariantCalling.sraCodes": ["SRR33240848", "SRR33240964"],
+    "VariantCalling.cpu": 2,
+    "VariantCalling.mem": "4G",
+    "VariantCalling.read_len_req": 60
+}
