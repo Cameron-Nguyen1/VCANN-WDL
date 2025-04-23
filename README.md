@@ -20,5 +20,5 @@ read_len_required = Read length required to be considered for alignment.
 
 ## III. Example Usage
 ```
-miniwdl run VC_QC_Close.wdl --input wf_params.json
+miniwdl run VCANN.wdl --input wf_params.json
 ```
