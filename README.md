@@ -1,7 +1,7 @@
 # VCANN-WDL
 "Variant Calling Annotated, WDL" (VCANN-WDL)
 #
-SARS-CoV-2 Variant Calling Annotated with WDL orchestration.
+Parallel SARS-CoV-2 Variant Calling Annotated with WDL orchestration.
 This is a very simple workflow used for demonstration purposes.
 This pipeline makes use of three docker images found in this repository: https://github.com/Cameron-Nguyen1/Docker_Images
 
